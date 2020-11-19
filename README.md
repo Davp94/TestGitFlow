@@ -2,4 +2,5 @@
 probando GitFlow
 probando 123
 gitflow es la onda
-conflictos hay
+conflictos hay:
+y los resolvimos :D
